@@ -1,9 +1,10 @@
-def jogo_forca():
+def titulo():
     titulo = '***Bem vindo ao jogo da Forca!***'
-    print('*'*len(titulo))
+    print('*' * len(titulo))
     print(titulo)
-    print('*'*len(titulo))
-    #Puxando as palavras da lista
+    print('*' * len(titulo))
+
+def gerando_palavra_secreta():# Puxando as palavras do arquivo txt
     from random import randint
     arquivo = open('frutas.txt', 'r', encoding='utf-8')
     lista_frutas = []
@@ -14,8 +15,16 @@ def jogo_forca():
     pos = randint(0, len(lista_frutas))
 
     palavra_secreta = lista_frutas[pos].lower()
+    return palavra_secreta #vai retornsr o valor pois ele vai ser chamado numa variável lá na função principal
 
-    letras_acertadas = ['_' for letra in palavra_secreta] #Vai ser adaptável
+def inicializa_letras_acertadas(palavra_secreta): #palavra_secreta é o parâmetro aqui
+    return ['_' for letra in palavra_secreta]  # Vai ser adaptável
+
+def jogo_forca():
+
+    titulo()
+    palavra_secreta = gerando_palavra_secreta()
+    letras_acertadas = inicializa_letras_acertadas(palavra_secreta)
 
     enforcou = False
     acertou = False

@@ -41,6 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702793257901</updated>
       <workItem from="1702793260831" duration="10000" />
-      <workItem from="1702793310790" duration="741000" />
+      <workItem from="1702793310790" duration="2014000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the repository">
       <option name="closed" value="true" />

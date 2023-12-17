@@ -1,7 +1,7 @@
 # python_alura
 ## Exercícios de python:
 ### Python: começando com a linguagem 12h
--Desenvolve o início da linguagem através do jogo de adivinhação usando os comandos básicos print, input, funções build-in, importação de funções externas, condicionais, laços de repetição...
+-Desenvolve o início da linguagem através do jogo de adivinhação usando os comandos básicos como print, input, funções build-in, importação de funções externas, condicionais, laços de repetição...
 - [x] jogo de advinhação
 - [x] main para rodar os jogos
 ### Python: avançando na linguagem 12h

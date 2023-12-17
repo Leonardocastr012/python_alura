@@ -1,10 +1,20 @@
 def jogo_forca():
-
     titulo = '***Bem vindo ao jogo da Forca!***'
     print('*'*len(titulo))
     print(titulo)
     print('*'*len(titulo))
-    palavra_secreta = 'banana'.lower()
+    #Puxando as palavras da lista
+    from random import randint
+    arquivo = open('frutas.txt', 'r', encoding='utf-8')
+    lista_frutas = []
+    for linha in arquivo:
+        linha_formatada = linha.strip('\n')
+        lista_frutas.append(linha_formatada)
+    arquivo.close()
+    pos = randint(0, len(lista_frutas))
+
+    palavra_secreta = lista_frutas[pos].lower()
+
     letras_acertadas = ['_' for letra in palavra_secreta] #Vai ser adaptável
 
     enforcou = False

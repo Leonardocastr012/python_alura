@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27974322-bfe6-41b0-9c5f-891219c8077f" name="Changes" comment="Second game">
+    <list default="true" id="27974322-bfe6-41b0-9c5f-891219c8077f" name="Changes" comment="I deleted this python file because I just used that file to do tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frutas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/frutas.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -38,6 +43,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.adivinhacao.executor": "Run",
     "Python.criandoarquivo2.executor": "Run",
+    "Python.forca.executor": "Run",
+    "Python.teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -68,6 +75,7 @@
       <updated>1702793257901</updated>
       <workItem from="1702793260831" duration="10000" />
       <workItem from="1702793310790" duration="2014000" />
+      <workItem from="1702834301638" duration="3410000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the repository">
       <option name="closed" value="true" />
@@ -109,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702793964210</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="I deleted this python file because I just used that file to do tests">
+      <option name="closed" value="true" />
+      <created>1702837402411</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702837402412</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,9 +149,12 @@
     <MESSAGE value="the main that runs the games" />
     <MESSAGE value="The part that I study and note some important things about python that I learn in Aluras's course" />
     <MESSAGE value="Second game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second game" />
+    <MESSAGE value="I deleted this python file because I just used that file to do tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="I deleted this python file because I just used that file to do tests" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_alura$forca.coverage" NAME="forca Coverage Results" MODIFIED="1702837579745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_alura$teste.coverage" NAME="teste Coverage Results" MODIFIED="1702836993411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_alura$adivinhacao.coverage" NAME="adivinhacao Coverage Results" MODIFIED="1702793355569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_alura$criandoarquivo2.coverage" NAME="criandoarquivo2 Coverage Results" MODIFIED="1702793658949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

@@ -1,2 +1,5 @@
 melancia
 cacau
+maça
+banana
+uva

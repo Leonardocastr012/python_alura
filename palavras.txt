@@ -1,2 +1,5 @@
-melancia
-maça
+mochila
+casa
+carro
+cachorro
+quintal

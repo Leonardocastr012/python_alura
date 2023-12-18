@@ -1,5 +1,5 @@
 from forca import jogo_forca #importou as funções
-from advinhacao import jogo_adivinhacao
+from adivinhacao import jogo_adivinhacao
 #caso importe o arquivo python sem ter função vai aparecer todo o código no terminal
 def jogo():
     titulo = '********Escolha seu jogo!********'
@@ -17,4 +17,5 @@ def jogo():
         jogo_adivinhacao()
 
 
-jogo()
+if __name__ == '__main__':
+    jogo()

@@ -8,5 +8,3 @@
 -Desenvolve mais recursos da linguagem através do jogo da forca usando conhecimento de tuplas, listas, sets, dicionários, funções, arquivo...
 - [x] jogo da forca
 - [x] criação de arquivo txt para jogo da forca
-### Python: entendendo a Orientação a Objetos 12h
-### Python: avançando na Orientação a Objetos 10h

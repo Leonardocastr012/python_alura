@@ -3,3 +3,5 @@ casa
 carro
 cachorro
 quintal
+mesa
+cadeira

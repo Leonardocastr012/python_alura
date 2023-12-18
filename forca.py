@@ -1,3 +1,4 @@
+#Curso avançado de python
 def titulo():
     titulo = '***Bem vindo ao jogo da Forca!***'
     print('*' * len(titulo))

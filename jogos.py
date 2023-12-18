@@ -1,3 +1,4 @@
+#Feito no curso de python do básico ao avançado
 from forca import jogo_forca #importou as funções
 from adivinhacao import jogo_adivinhacao
 #caso importe o arquivo python sem ter função vai aparecer todo o código no terminal

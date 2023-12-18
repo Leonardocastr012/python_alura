@@ -1,5 +1,5 @@
 # python_alura
-## Exercícios de python:
+## Curso de Python 3 que ensina do básico ao avançado:
 ### Python: começando com a linguagem 12h
 -Desenvolve o início da linguagem através do jogo de adivinhação usando os comandos básicos como print, input, funções build-in, importação de funções externas, condicionais, laços de repetição...
 - [x] jogo de advinhação

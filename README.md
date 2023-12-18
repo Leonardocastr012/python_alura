@@ -6,7 +6,7 @@
 - [x] main para rodar os jogos
 ### Python: avançando na linguagem 12h
 -Desenvolve mais recursos da linguagem através do jogo da forca usando conhecimento de tuplas, listas, sets, dicionários, funções, arquivo...
-- [ ] jogo da forca
-- [ ] criação de arquivo txt para jogo da forca
+- [x] jogo da forca
+- [x] criação de arquivo txt para jogo da forca
 ### Python: entendendo a Orientação a Objetos 12h
 ### Python: avançando na Orientação a Objetos 10h

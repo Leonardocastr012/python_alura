@@ -50,5 +50,5 @@ def jogo_adivinhacao():
 
     print('Fim de jogo!')
 
-#if __name__ == '__main__':
-#    jogo_adivinhacao()
+if __name__ == '__main__':
+    jogo_adivinhacao()

@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27974322-bfe6-41b0-9c5f-891219c8077f" name="Changes" comment="I finished the hangman game and I used a lot of functions for the code to be more legible and I be able to change one part of that without to disturb the other part">
+    <list default="true" id="27974322-bfe6-41b0-9c5f-891219c8077f" name="Changes" comment="I finished the menu of the jogo.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frutas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/frutas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jogos.py" beforeDir="false" afterPath="$PROJECT_DIR$/jogos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palavras.txt" beforeDir="false" afterPath="$PROJECT_DIR$/palavras.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/adivinhacao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +91,7 @@
       <workItem from="1702793310790" duration="2014000" />
       <workItem from="1702834301638" duration="3769000" />
       <workItem from="1702839676214" duration="5460000" />
-      <workItem from="1702917707214" duration="302000" />
+      <workItem from="1702917707214" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the repository">
       <option name="closed" value="true" />
@@ -167,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702845124853</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="I finished the menu of the jogo.py">
+      <option name="closed" value="true" />
+      <created>1702918023056</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702918023056</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,12 +201,14 @@
     <MESSAGE value="I changed the code for receive random words from the archive txt" />
     <MESSAGE value="I changed the code for organize the structure of the code in functions and become the code more legible" />
     <MESSAGE value="I finished the hangman game and I used a lot of functions for the code to be more legible and I be able to change one part of that without to disturb the other part" />
-    <option name="LAST_COMMIT_MESSAGE" value="I finished the hangman game and I used a lot of functions for the code to be more legible and I be able to change one part of that without to disturb the other part" />
+    <MESSAGE value="I finished the menu of the jogo.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="I finished the menu of the jogo.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_alura$forca.coverage" NAME="forca Coverage Results" MODIFIED="1702844066897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_alura$teste.coverage" NAME="teste Coverage Results" MODIFIED="1702836993411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_alura$adivinhacao.coverage" NAME="adivinhacao Coverage Results" MODIFIED="1702793355569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_alura$jogos.coverage" NAME="jogos Coverage Results" MODIFIED="1702917885901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_alura$criandoarquivo2.coverage" NAME="criandoarquivo2 Coverage Results" MODIFIED="1702793658949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
